@@ -1,0 +1,6 @@
+2023-03-11 20:01:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONG" not found; SQL statement:
+select song0_.song_id as song_id1_0_, song0_.lyricist as lyricist2_0_, song0_.music_director as music_di3_0_, song0_.singer as singer4_0_, song0_.song_name as song_nam5_0_ from song song0_ [42102-214]
+2023-03-11 20:08:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SONG" not found; SQL statement:
+select song0_.song_id as song_id1_0_, song0_.lyricist as lyricist2_0_, song0_.music_director as music_di3_0_, song0_.singer as singer4_0_, song0_.song_name as song_nam5_0_ from song song0_ [42102-214]
